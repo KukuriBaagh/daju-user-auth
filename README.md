@@ -1,1 +1,1 @@
-# daju-user-auth
+# Simple User Auth Working Principle
